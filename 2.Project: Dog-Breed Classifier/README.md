@@ -14,5 +14,5 @@ both can also be accessed from the Project: Dog-Breed Classifier
 ### Results 
 Detailed resuts are found in the dog_app.ipnyb
 
-A Sanpshot of the results :
+A snapshot of the results :
 ![results](https://github.com/TensorAdy/udacity_dlnd/blob/master/2.Project:%20Dog-Breed%20Classifier/Screen%20Shot%202020-06-07%20at%2016.30.50.png)
