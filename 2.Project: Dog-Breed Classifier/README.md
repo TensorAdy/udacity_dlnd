@@ -11,7 +11,7 @@ Report in the PDF format is availabe [here](https://github.com/TensorAdy/udacity
 
 both can also be accessed from the Project: Dog-Breed Classifier
 
-Additional 6 images that's not in the dataset can be found in 6 Images folder 
+Additional 6 images that's not in the dataset can be found in *6 Images* folder 
 
 ### Results 
 Detailed resuts are found in the [dog_app.ipynb](https://github.com/TensorAdy/udacity_dlnd/blob/master/2.Project:%20Dog-Breed%20Classifier/dog_app.ipynb) 
