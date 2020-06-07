@@ -7,4 +7,4 @@ We need to utilize CNN model to build this classifier from scratch as well as ut
 
 Details of the implementation can be found in the Jupyter notebook [dog_app.ipynb](https://github.com/TensorAdy/udacity_dlnd/blob/master/2.Project:%20Dog-Breed%20Classifier/dog_app.ipynb)
 
-Report in the PDF format is availabe [here] (https://github.com/TensorAdy/udacity_dlnd/blob/master/2.Project:%20Dog-Breed%20Classifier/dog_app.pdf)
+Report in the PDF format is availabe [here](https://github.com/TensorAdy/udacity_dlnd/blob/master/2.Project:%20Dog-Breed%20Classifier/dog_app.pdf)
