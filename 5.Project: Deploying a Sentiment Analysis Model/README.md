@@ -8,3 +8,5 @@ In order for SageMaker to interact with the web app, 'sentiment_lambda_function'
 
 ### Webapp :
 ![webapp](https://github.com/TensorAdy/udacity_dlnd/blob/master/5.Project:%20Deploying%20a%20Sentiment%20Analysis%20Model/webapp/Screen%20Shot%202020-06-28%20at%2018.33.06.png)
+
+![webapp](https://github.com/TensorAdy/udacity_dlnd/blob/master/5.Project:%20Deploying%20a%20Sentiment%20Analysis%20Model/webapp/Screen%20Shot%202020-06-28%20at%2018.37.57.png)
